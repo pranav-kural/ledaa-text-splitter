@@ -1,6 +1,8 @@
 # LEDAA Text Splitter
 
-LEDAA project is about building a conversational AI assistant for [Fragment's Ledger API](https://fragment.dev/docs). Towards this purpose, the **LEDAA Text Splitter** is mainly intended to be used in a RAG pipeline in the data preparation stage before data ingestion.
+LEDAA project is about building a conversational AI assistant for [FRAGMENT (documentation)](https://fragment.dev/docs). Towards this purpose, the **LEDAA Text Splitter** is mainly intended to be used in a RAG pipeline in the data preparation stage before data ingestion.
+
+To learn more check: [Building AI Assistant for FRAGMENT documentation](https://www.pkural.ca/blog/posts/fragment/)
 
 ## Process Flow
 
